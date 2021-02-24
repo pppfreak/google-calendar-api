@@ -11,11 +11,9 @@ Google Calendar API  - Spring Boot and OAuth2
 3) Google Calendar API
 4) OAuth2
 
- Spring Boot application which secured by Spring Security. Instead of using simple form based security, I am secured by Spring Security OAuth2 and the OAuth provider is Google.
+Spring Boot application which secured by Spring Security. Instead of using simple form based security, I am secured by Spring Security OAuth2 and the OAuth provider is Google.
 
-Why am I required?
 
-Developing a Spring Boot web application with Security enabled and integrated with Google is hard to implement. So this is a sample implementation of Spring Boot + Spring Security OAuth2 + Google Provider.
 
 
 
